@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### about me(关于我)
 - [博客](https://huanhunmao.github.io/)
-- [Mark_Fu 资源网](https://huanhunmao.github.io/)(内跳转)
+- [Mark_Fu 资源网](https://huanhunmao.github.io/)(博客内跳转)
 - [掘金](https://juejin.cn/user/1741228277763278)
 - [CSDN](https://i.csdn.net/#/user-center/profile?spm=1003.2020.3001.5111)
 - [知乎](https://www.zhihu.com/people/got-81)
