@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 
 ### about me(关于我)
+- [博客](https://huanhunmao.github.io/)
+- [Mark_Fu 资源网](https://uc-static.heygears.com/2.0/test/static/202101191640/img/Mark_Fu%20%E8%B5%84%E6%BA%90%E7%BD%91/index_ziyuan.html)
 - [掘金](https://juejin.cn/user/1741228277763278)
 - [CSDN](https://i.csdn.net/#/user-center/profile?spm=1003.2020.3001.5111)
 - [知乎](https://www.zhihu.com/people/got-81)
