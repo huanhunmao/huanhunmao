@@ -1,4 +1,4 @@
-### Hi there 👋 , My name is Mark Fu, so happy to communicating with you. Thank you star. Please contact me if you have any question,my WeChat ID is defeatcc(我的名字是Mark Fu，非常开心与你的交流。谢谢你的star。如果有任何其他问题，请联系我，我的微信号码是getXiLan)
+### Hi there 👋 , My name is Mark Fu, so happy to communicating with you. Thank you star. Please contact me if you have any question,my WeChat ID is defeatcc(我的名字是Mark Fu，非常开心与你的交流。谢谢你的star。如果有任何其他问题，请联系我，我的微信号码是getXiLan，拉你进群，我们一起成长！)
 
 
 
@@ -38,11 +38,13 @@ Here are some ideas to get you started:
 
 
 ### about me(关于我)
+- 强烈推荐知乎部分，放了比较多的干货内容，点击下方链接即可访问
+- [知乎](https://www.zhihu.com/people/got-81)
 - [博客](https://huanhunmao.github.io/)
 - [Mark_Fu 资源网](https://huanhunmao.github.io/)(博客内跳转)
 - [掘金](https://juejin.cn/user/1741228277763278)
 - [CSDN](https://i.csdn.net/#/user-center/profile?spm=1003.2020.3001.5111)
-- [知乎](https://www.zhihu.com/people/got-81)
+
 
 
 
