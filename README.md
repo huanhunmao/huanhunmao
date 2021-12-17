@@ -1,4 +1,6 @@
-### Hi there 👋 , My name is Mark Fu, so happy to communicating with you. Thank you star. Please contact me if you have any question,my WeChat ID is defeatcc(我的名字是Mark Fu，非常开心与你的交流。谢谢你的star。如果有任何其他问题，请联系我，我的微信号码是getXiLan，拉你进群，我们一起成长！)
+### Hi there 👋 
+
+My name is Mark Fu / XiLan, I am very happy to communicate with you. Thank you star. If you have any other questions, please contact me, my WeChat ID is getXiLan, pull you into the group, front-end developer alliance, we grow together！！！(我的名字是Mark Fu / XiLan，非常开心与你的交流。谢谢你的star。如果有任何其他问题，请联系我，我的微信号码是getXiLan，拉你进群，前端开发者联盟,我们一起成长！)
 
 
 
@@ -22,30 +24,32 @@
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Services offers
-- 🌱 I’m currently learning nodejs,vuejs,reactjs,threejs
-- 👯 I’m looking to collaborate on big and smart company
-- 🤔 I’m looking for help with BAT
-- 💬 Ask me about any question
-- 📫 How to reach me: wechat defeatcc
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
-
-
-
-### about me(关于我)
-- 强烈推荐知乎部分，放了比较多的干货内容，点击下方链接即可访问
-- [知乎](https://www.zhihu.com/people/got-81)
-- [博客](https://huanhunmao.github.io/)
-- [Mark_Fu 资源网](https://huanhunmao.github.io/)(博客内跳转)
-- [掘金](https://juejin.cn/user/1741228277763278)
-- [CSDN](https://i.csdn.net/#/user-center/profile?spm=1003.2020.3001.5111)
-
+### About me
+- 强烈推荐掘金部分，放了比较多的干货内容，点击下方链接即可访问
+- [知乎](https://www.zhihu.com/people/xilan-70)（主要更新视频部分）
+- [掘金](https://juejin.cn/user/1741228277763278)(主要更新文章)
+- [博客](https://huanhunmao.github.io/)（初期敲博客写的简单版本）
+- [CSDN](https://blog.csdn.net/weixin_43815680?spm=1011.2124.3001.5343)（初期内容）
 
 
 
 [![huanhunmao's github stats](https://github-readme-stats.vercel.app/api?username=huanhunmao)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Services offers
+- 🌱 I’m currently learning nodejs,vuejs,reactjs,threejs
+- 👯 I’m looking to collaborate on smart company
+- 🤔 I’m looking for interesting things
+- 💬 Ask me about any question
+- 📫 How to reach me: wechat id is getXiLan
+- 😄 Pronouns: XiLan
+- ⚡ Fun fact: Evolution
+
+
+
