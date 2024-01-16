@@ -21,7 +21,6 @@ My name is Marxu, I am very happy to communicate with you. Thank you for your st
 ### About me
 - 强烈推荐掘金部分，放了比较多的干货内容，点击下方链接即可访问
 - [掘金](https://juejin.cn/user/1741228277763278)(文章)
-- [知乎](https://www.zhihu.com/people/xilan-70)（视频）
 - [博客](https://huanhunmao.github.io/)（初期敲博客写的简单版本）
 - [CSDN](https://blog.csdn.net/weixin_43815680?spm=1011.2124.3001.5343)（初期内容）
 
