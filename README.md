@@ -21,7 +21,7 @@ My name is Fu Hao, I am very happy to communicate with you. Thank you for your s
 - [掘金](https://juejin.cn/user/1741228277763278)(文章)
 - [CSDN](https://blog.csdn.net/weixin_43815680?spm=1011.2124.3001.5343)（初期内容）
 - [博客](https://huanhunmao.github.io/)（初期敲博客写的简单版本）
-- [B站](https://space.bilibili.com/358561697?spm_id_from=333.1007.0.0)(早起一些教学视频)
+- [B站](https://space.bilibili.com/358561697?spm_id_from=333.1007.0.0)(早期一些教学视频)
 
 <!--Footer--> 
 <p align="center">
