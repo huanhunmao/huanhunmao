@@ -1,32 +1,158 @@
+<!-- 顶部动画 -->
 
-
-### Hi there 👋 
-
-My name is Fu Hao, I am very happy to communicate with you. Thank you for your star. If you have any other questions, please contact me, my WeChat ID is fuhaofunny, pull you into the group, front-end developer alliance, we grow together！！！(我是付豪，非常开心与你的交流。谢谢你的star。如果有任何其他问题，请联系我，我的微信号码是 fuhaofunny，拉你进群，前端开发者联盟,我们一起成长！)
-
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-
-
-
-### Languages && Technologies
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%23404d59.svg?style=for-the-badge&logo=vue&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Golang](https://img.shields.io/badge/golang-3670A0?style=for-the-badge&logo=golang&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
-
-
-### About me
-- 强烈推荐掘金部分，放了比较多的干货内容，点击下方链接即可访问
-- [掘金](https://juejin.cn/user/1741228277763278)(文章)
-- [CSDN](https://blog.csdn.net/weixin_43815680?spm=1011.2124.3001.5343)（初期内容）
-- [博客](https://huanhunmao.github.io/)（初期敲博客写的简单版本）
-- [B站](https://space.bilibili.com/358561697?spm_id_from=333.1007.0.0)(早期一些教学视频)
-
-<!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Fu%20Hao&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<h1 align="center">Hi 👋 I'm Fu Hao</h1>
 
+<h3 align="center">
+Senior Frontend Architect | FullStack Developer | AI Builder
+</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=10%2B+Years+Software+Engineering;Frontend+Architect;AI+Native+Application+Developer;Building+AI+Products+for+Future"/>
+</p>
+
+---
+
+# 🧠 About Me
+
+🚀 10+ years software engineering experience  
+
+🧑‍💻 Frontend Architect / FullStack Engineer  
+
+🤖 Currently building **AI Native Applications**
+
+📚 Passionate about **AI + Education**
+
+🌍 Open source enthusiast
+
+📬 Contact  
+
+Wechat: **fuhaofunny**
+
+---
+
+# 🧰 Tech Stack
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![Golang](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go)
+
+### AI Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-VectorSearch-green?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-AI-blue?style=for-the-badge)
+![Agent](https://img.shields.io/badge/AI-Agent-orange?style=for-the-badge)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 🚀 AI Projects
+
+| Project | Description |
+|------|-------------|
+| AI Math Tutor | AI数学辅导助手 |
+| AI Coding Copilot | AI编程助手 |
+| RAG Knowledge Base | AI知识库 |
+| AI Agent Playground | AI Agent实验项目 |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=huanhunmao&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanhunmao&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huanhunmao&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=huanhunmao&theme=algolia&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Tech Articles
+
+✍ 掘金  
+
+https://juejin.cn/user/1741228277763278
+
+✍ CSDN  
+
+https://blog.csdn.net/weixin_43815680
+
+🌐 Blog  
+
+https://huanhunmao.github.io/
+
+🎥 Bilibili  
+
+https://space.bilibili.com/358561697
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=huanhunmao&label=Profile%20views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+<!-- Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
